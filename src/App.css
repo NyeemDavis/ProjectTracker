@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    height: 120vh;
+    max-height: 120vh;
+    background-color: seagreen;
+    max-width: 120vw;
+}
+
+.title {
+    text-align: center;
+}
+
+.project-form {
+    display: flex;
+    flex-direction: column;
+    border: solid 10px black;
+    background: white;
+    
+}
