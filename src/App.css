@@ -18,3 +18,12 @@ body {
     background: white;
     
 }
+
+.project {
+    border: solid 2px blue;
+}
+
+
+.tasks-anchor {
+    text-align: center;
+}
