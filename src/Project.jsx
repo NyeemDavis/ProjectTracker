@@ -1,6 +1,6 @@
 
 
-function Project () {
+export default function Project () {
 
     return (
         <>
@@ -8,4 +8,3 @@ function Project () {
     );
 };
 
-export default Project
