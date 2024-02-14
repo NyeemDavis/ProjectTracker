@@ -35,7 +35,7 @@ export default function ProjectForm ({addProject, projects}) {
     // Make one input being dropdown for technologies OR a search and words that look like it will pop up. 
     // Ex: user types just jav and results are java, javascript...
     return (    
-        <div className='form-container'>
+        <div className='form-container hidden'>
             <form onSubmit={handleSubmit} className="project-form">
                 <label htmlFor="project-name">Project Name</label>
                 <input 
